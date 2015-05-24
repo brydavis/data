@@ -12,14 +12,14 @@ import (
 const x = `
 <person>
   <name>
-    <family> Newmarch </family>
-    <personal> Jan </personal>
+    <family> Smith </family>
+    <personal> Jim </personal>
   </name>
   <email type="personal">
-    jan@newmarch.name
+    jane.doe@gmail.com
   </email>
   <email type="work">
-    j.newmarch@boxhill.edu.au
+    jon.doe@gmail.com
   </email>
 </person>
 `
